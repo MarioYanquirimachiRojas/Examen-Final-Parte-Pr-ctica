@@ -33,4 +33,4 @@ def division(a, b):
     time.sleep(1)
     return a / b
 
-print("El resultado de la división de los números es: {}".format(division(10, 20)))
+print("El resultado de la división de los números es: {}".format(division(100, 50)))
